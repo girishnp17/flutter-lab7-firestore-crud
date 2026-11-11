@@ -3,7 +3,7 @@
   "regno": "URK23CS5015",
   "ex_no": "7",
   "title": "Data Persistence using Google Cloud Firestore",
-  "date": "",
+  "date": "01/10/2026",
   "github_link": "https://github.com/girishnp17/flutter-lab7-firestore-crud",
   "video_link": "",
   "aim": "Develop a Flutter application that stores and retrieves employee or student information using Google Cloud Firestore, ensuring data persistence even after the application is closed and reopened.",
